@@ -1,5 +1,5 @@
 ### Olá me chamo Bruno Guimarães Ruiz👋
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/bruno-guimarães-ruiz-161001241/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-guimar%C3%A3es-ruiz-161001241/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunogr.24/)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bgr240403&show_icons=true&theme=transparent)
