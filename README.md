@@ -15,6 +15,7 @@
 </div><br/>
 
 Sou um jovem apaixonado por tecnologia, buscando uma vaga nesse mercado gigante.
+Atualmente estou fazendo pós graduação em full stack.
 
 ## Informações adicionais
 
