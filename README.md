@@ -7,7 +7,7 @@
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
- <img align="center" alt="html5" scr="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img align="center" alt="html5" scr= "https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
   <img align="center" alt="css" scr="hhttps://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="java" scr="hhttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -19,6 +19,6 @@ Sou um jovem apaixonado por tecnologia, buscando uma vaga nesse mercado gigante.
 ## Informações adicionais
 
 - [gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
-- [meu curriculo](https://docs.google.com/document/d/1Kr6rTKzkPuwiRk4Kl6Ua3_OzOYv2MuJX/edit)
+- [meu curriculo](https://docs.google.com/document/d/1h5gIfFreFqngfJd5sbkqOTdwJSWKaeBn/edit?rtpof=true)
 
 
